@@ -20,3 +20,8 @@
 
 
 ![image](https://github.com/akosla00/Module-3-Challenge/assets/160696834/3ca09a2b-c3b1-4c53-9cc2-0a34b0e82135)
+
+
+While loop obtained from AskBCS Learning Assistant
+sum code and average obtained from professor, Eric Sayer
+Math.random () code obtained from tutor, Brandon Leek
